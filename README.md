@@ -1,5 +1,6 @@
 # Hotel_Management_System
-Java hotel management system with console and GUI applications.
+Complete Hotel Management System in Java with GUI, console reservation, and supporting diagrams.
+
 ## Features
 
 ### GUI (Login + Welcome)
