@@ -1,11 +1,27 @@
 # Hotel_Management_System
 Complete Hotel Management System in Java with GUI, console reservation, and supporting diagrams.
 
-## Features
+## Description
+This project is a complete Hotel Management System including:
+- Console-based reservation system
+- GUI login screen
+- Framework for hotel operations
+- Flowcharts and pseudocode
+- Screenshots of outputs
 
-### GUI (Login + Welcome)
-- Login screen with username/password
-- Welcome screen with buttons for Gym, Spa, Dining, Room Booking (messages only)
+## Project Structure
+- `console/` - contains Java console programs for reservations and room search
+- `gui/` - contains Java GUI programs like login screen
+- `framework/` - main framework classes
+- `diagrams/` - flowcharts and algorithms
+- `pseudocode/` - room search pseudocode
+- `screenshots/` - program screenshots
+- `Technical_Documentation/` - complete technical documentation
+
+## Technical Documentation
+All the technical documentation for this project can be found in the `Technical_Documentation/` folder.
+
+
 
 ### Console (Framework / Business Logic)
 - Room reservation with date handling
@@ -13,9 +29,6 @@ Complete Hotel Management System in Java with GUI, console reservation, and supp
 - Room search by Room ID
 - Logger messages for monitoring events
 
-### Diagrams & Pseudocode
-- Class diagrams, flowcharts, and algorithm diagrams
-- Pseudocode explaining the system logic
 
 
 ## Technologies Used
