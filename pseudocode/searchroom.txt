@@ -1,0 +1,7 @@
+Begin
+INPUT room number
+INPUT date
+INPUT type room
+INPUT price room
+Print room number, date, type room, price room
+End
